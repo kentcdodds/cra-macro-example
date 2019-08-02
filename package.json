@@ -1,0 +1,47 @@
+{
+  "name": "cra-macro-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "ms.macro": "^2.0.0"
+  },
+  "description": "This is an example of how you can use [Create React App](https://facebook.github.io/create-react-app/) with [Babel Plugin Macros](https://github.com/kentcdodds/babel-plugin-macros).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kentcdodds/cra-macro-example.git"
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (https://kentcdodds.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kentcdodds/cra-macro-example/issues"
+  },
+  "homepage": "https://github.com/kentcdodds/cra-macro-example#readme"
+}
