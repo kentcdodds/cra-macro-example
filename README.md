@@ -10,4 +10,6 @@ It demonstrates not only using one of the many
 [how to write](https://github.com/kentcdodds/babel-plugin-macros/blob/master/other/docs/author.md)
 and use your own with the `evil.macro.js` example.
 
+[It even works in codesandbox](https://codesandbox.io/s/github/kentcdodds/cra-macro-example).
+
 [Learn how to get started writing your own macros](https://kentcdodds.com/blog/write-your-own-code-transform).

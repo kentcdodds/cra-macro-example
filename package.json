@@ -1,8 +1,18 @@
 {
   "name": "cra-macro-example",
+  "description": "This is an example of how you can use [Create React App](https://facebook.github.io/create-react-app/) with [Babel Plugin Macros](https://github.com/kentcdodds/babel-plugin-macros).",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kentcdodds/cra-macro-example.git"
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (https://kentcdodds.com/)",
+  "license": "MIT",
   "dependencies": {
+    "ms.macro": "^2.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
@@ -27,21 +37,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "ms.macro": "^2.0.0"
-  },
-  "description": "This is an example of how you can use [Create React App](https://facebook.github.io/create-react-app/) with [Babel Plugin Macros](https://github.com/kentcdodds/babel-plugin-macros).",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/kentcdodds/cra-macro-example.git"
-  },
-  "keywords": [],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (https://kentcdodds.com/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kentcdodds/cra-macro-example/issues"
-  },
-  "homepage": "https://github.com/kentcdodds/cra-macro-example#readme"
+  }
 }
