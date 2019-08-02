@@ -1,4 +1,4 @@
-# Creact React App + Babel Plugin Macros
+# Create React App + Babel Plugin Macros
 
 This is an example of how you can use
 [Create React App](https://facebook.github.io/create-react-app/) with
