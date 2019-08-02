@@ -11,5 +11,8 @@ It demonstrates not only using one of the many
 and use your own with the `evil.macro.js` example.
 
 [It even works in codesandbox](https://codesandbox.io/s/github/kentcdodds/cra-macro-example).
+(However, due to caching issues, modifying the macro itself on codesandbox is
+not currently working. Feel free to
+[file an issue on codesandbox about this](https://github.com/codesandbox/codesandbox-client/issues/new/choose))
 
 [Learn how to get started writing your own macros](https://kentcdodds.com/blog/write-your-own-code-transform).
